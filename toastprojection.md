@@ -35,7 +35,7 @@ The following images show the process a little simpler. The 1000 x 500 pixel equ
 
 ![](images/Toast_Output.png)
 
-![](images/ToastedRedPlanet.jpg)
+![](images/toastedredplanet.jpg)
 
 ### Inside and Outside Projections
 
