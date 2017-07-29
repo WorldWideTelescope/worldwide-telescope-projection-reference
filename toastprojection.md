@@ -31,9 +31,9 @@ The unusual warping in this image can be interpreted. The North Pole is in the c
 The following images show the process a little simpler. The 1000 x 500 pixel equirectangular image on the left produces the TOAST projection on the right, and if the collection file produced by the Sphere Toaster tool (with the output set to **Planet**) is loaded into WorldWide Telescope, the planet in the lower image will appear:
 
 
-![](images/Toast_Input.bmp)
+![](images/Toast_Input.png)
 
-![](images/Toast_Output.bmp)
+![](images/Toast_Output.png)
 
 ![](images/ToastedRedPlanet.jpg)
 
