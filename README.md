@@ -1,4 +1,11 @@
-# WorldWide Telescope Projection Reference
+# This Repository Has Been Superseded
+
+The documentation here has been moved to [the data guide][dg].
+
+[dg]: https://github.com/WorldWideTelescope/worldwide-telescope-data-guide
+
+
+## WorldWide Telescope Projection Reference
 
 WorldWide Telescope is a viewer for spheres. As a viewer zooms in the spheres are of ever increasing size and resolution. Sometimes, for panoramas and all-sky surveys – WorldWide Telescope renders the inside of a sphere. Other times, for the surfaces of planets and moons, it renders the outside of a sphere. WorldWide Telescope does _not_ model the irregular shape of the Earth usually referred to as an oblate spheroid. The east-west diameter of the earth is 7,926 miles (or 12,756 kilometers), whereas the north-south diameter is slightly shorter at 7,901 miles (or 12,715 kilometers). The program treats the Earth, and other planets and moons, as perfect spheres.
 
